@@ -1,3 +1,5 @@
-# novato_angular
+# Prueba Técnica para Novato Angular
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/masalgadoVesta/novato_angular)
+## Descripción
+
+Esta prueba técnica está diseñada para evaluar las habilidades básicas de un desarrollador Angular novato. La prueba incluye la creación de un componente básico, una directiva personalizada y un servicio para manejar tareas.
