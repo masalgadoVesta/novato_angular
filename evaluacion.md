@@ -8,9 +8,9 @@
 
 ### Instrucciones:
 
-- 1. Crea un nuevo componente llamado UserProfile.
-- 2. En el archivo TypeScript del componente, define dos propiedades: userName y userAge.
-- 3. En el archivo HTML del componente, muestra las propiedades userName y userAge.
+- Crea un nuevo componente llamado UserProfile.
+- En el archivo TypeScript del componente, define dos propiedades: userName y userAge.
+- En el archivo HTML del componente, muestra las propiedades userName y userAge.
 
 ## Ejercicio 2: Directiva Personalizada
 
@@ -19,9 +19,9 @@
 
 ### Instrucciones:
 
-- 1. Crea una nueva directiva llamada appHoverHighlight.
-- 2. Utiliza el ElementRef y los decoradores HostListener para cambiar el color de fondo del elemento.
-- 3. El color de fondo debe cambiar a amarillo al pasar el ratón y volver al color original al retirarlo.
+- Crea una nueva directiva llamada appHoverHighlight.
+- Utiliza el ElementRef y los decoradores HostListener para cambiar el color de fondo del elemento.
+- El color de fondo debe cambiar a amarillo al pasar el ratón y volver al color original al retirarlo.
 
 ## Ejercicio 3: Servicio de Tareas
 ### Descripción:
@@ -29,6 +29,6 @@
 
 ### Instrucciones:
 
-- 1. Crea un servicio llamado TaskService.
-- 2. Define una interfaz Task con propiedades title y description.
-- 3. Implementa métodos para agregar una tarea (addTask), eliminar una tarea (deleteTask), y obtener todas las tareas (getTasks).
+- Crea un servicio llamado TaskService.
+- Define una interfaz Task con propiedades title y description.
+- Implementa métodos para agregar una tarea (addTask), eliminar una tarea (deleteTask), y obtener todas las tareas (getTasks).
